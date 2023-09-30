@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">final_project</string>
+    <string name="Title">買我</string>
+    <string name="customer">顧客</string>
+    <string name="seller">店家</string>
+    <string name="choco_cake">巧克力戚風蛋糕120$</string>
+    <string name="chese_cake">起司戚風蛋糕120$</string>
+    <string name="original_cake">原味戚風蛋糕120$</string>
+    <string name="tiramisu">提拉米蘇150$</string>
+    <string name="Basque">巴斯克150$</string>
+    <string name="lemon">檸檬塔150$</string>
+    <string name="chocolate">巧克力塔150$</string>
+    <string name="san">聖多諾黑180$</string>
+    <string name="cinnamon">肉桂捲180$</string>
+    <string name="clear">清除</string>
+    <string name="define">確定</string>
+    <string name="your_order">您的訂單 : </string>
+    <string name="reset">重新下訂</string>
+    <string name="send">送出訂單</string>
+    <string name="sign_in">註冊</string>
+    <string name="log_in">登入</string>
+    <string name="account">帳號</string>
+    <string name="password">密碼</string>
+    <string name="screen">登入畫面</string>
+    <string name="over">不能超過15個字</string>
+    <string name="Sign_in">註冊畫面</string>
+
+
+
+
+
+</resources>

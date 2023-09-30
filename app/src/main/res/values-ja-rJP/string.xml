@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">final_project</string>
+    <string name="Title">買って</string>
+    <string name="customer">お客様</string>
+    <string name="seller">お店</string>
+    <string name="choco_cake">チョコレートシフォンケーキ120$</string>
+    <string name="chese_cake">チーズシフォンケーキ120$</string>
+    <string name="original_cake">オリジナルシフォンケーキ120$</string>
+    <string name="tiramisu">ティラミス150$</string>
+    <string name="Basque">バスク150$</string>
+    <string name="lemon">レモンタルト150$</string>
+    <string name="chocolate">チョコレートタワー150$</string>
+    <string name="san">サン・ドノ・ノワール180$</string>
+    <string name="cinnamon">シナモンロール180$</string>
+    <string name="clear">クリアする</string>
+    <string name="define">もちろん</string>
+    <string name="your_order">ご注文 ： </string>
+    <string name="reset">再注文</string>
+    <string name="send">注文を送る</string>
+    <string name="sign_in">登録</string>
+    <string name="log_in">ログインする</string>
+    <string name="account">口座番号</string>
+    <string name="password">パスワード</string>
+    <string name="screen">ログイン</string>
+    <string name="over">15文字以内</string>
+    <string name="Sign_in">登録画面</string>
+</resources>

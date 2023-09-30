@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">final_project</string>
+    <string name="Title">MaiWo</string>
+    <string name="customer">Customer</string>
+    <string name="seller">Seller</string>
+    <string name="choco_cake">Chocolate Chiffon Cake120$</string>
+    <string name="chese_cake">Cheese Chiffon Cake120$</string>
+    <string name="original_cake">Original Chiffon Cake120$</string>
+    <string name="tiramisu">tiramisu150$</string>
+    <string name="Basque">Basque150$</string>
+    <string name="lemon">Lemon Tart150$</string>
+    <string name="chocolate">Chocolate Tart150$</string>
+    <string name="san">San dono noir180$</string>
+    <string name="cinnamon">Cinnamon roll180$</string>
+    <string name="clear">Claer</string>
+    <string name="define">Define</string>
+    <string name="your_order">your order :</string>
+    <string name="reset">Re-order</string>
+    <string name="send">Send order</string>
+    <string name="sign_in">Register</string>
+    <string name="log_in">Login</string>
+    <string name="account">account</string>
+    <string name="password">password</string>
+    <string name="screen">Login</string>
+    <string name="over">No more than 15 characters</string>
+    <string name="Sign_in">Sign in</string>
+</resources>
